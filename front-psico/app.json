@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "psico-app",
+    "slug": "psico-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait"
+  }
+}
